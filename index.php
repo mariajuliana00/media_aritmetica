@@ -25,13 +25,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
-    <title>PHP</title>
+    <title> Calculando média aritmética</title>
 </head>
 
 
 <body>
     <div>
-        <h1>Questões 1</h1>
+        <h1>Questão 1</h1>
 
         <form action="" method="POST">
             <h2>Exercicío 1</h2>
