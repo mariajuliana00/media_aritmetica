@@ -40,6 +40,8 @@ label, input{
     text-align: center;
     width: 30vh;
     outline: none;
+    border-radius: 6px;
+    border: none;
 }
 
 #enviar{
